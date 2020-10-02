@@ -1,0 +1,18 @@
+[package]
+name = "monochrome"
+version = "0.1.0"
+authors = ["Emil Englesson <englesson.emil@gmail.com>"]
+edition = "2018"
+description = "Othello AI"
+repository = "https://github.com/LimeEng/monochrome/"
+license = "MIT"
+keywords = ["othello"]
+
+exclude = [
+    ".github/**"
+]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+magpie = "0.1.0"
