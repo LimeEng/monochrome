@@ -3,4 +3,4 @@
 
 # Monochrome
 
-Monochrome is the primary consumer of the [magpie library](https://github.com/LimeEng/magpie/). The goal is to develop a reasonably effective AI to play Othello.
+Monochrome will be closely tied to the [magpie library](https://github.com/LimeEng/magpie/). The goal is to develop a reasonably effective AI to play Othello.
