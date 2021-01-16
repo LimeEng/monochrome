@@ -1,6 +1,5 @@
 use crate::eval::EvaluationFunction;
-use crate::magpie::othello::OthelloBoard;
-use crate::magpie::othello::Stone;
+use crate::magpie::othello::{OthelloBoard, Stone};
 
 pub struct StoneDifference;
 

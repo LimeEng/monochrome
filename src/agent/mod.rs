@@ -1,6 +1,6 @@
-use crate::magpie::othello::OthelloBoard;
-use crate::magpie::othello::Stone;
+use crate::magpie::othello::{OthelloBoard, Stone};
 
+pub mod random;
 pub mod unmotivated;
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
