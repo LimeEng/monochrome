@@ -1,7 +1,7 @@
-use crate::agent::Action;
-use crate::agent::Agent;
-use crate::magpie::othello::OthelloBoard;
-use crate::magpie::othello::Stone;
+use crate::{
+    agent::{Action, Agent},
+    magpie::othello::{OthelloBoard, Stone},
+};
 
 pub struct UnmotivatedAgent;
 

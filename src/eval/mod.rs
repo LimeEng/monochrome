@@ -1,5 +1,4 @@
-use crate::magpie::othello::OthelloBoard;
-use crate::magpie::othello::Stone;
+use crate::magpie::othello::{OthelloBoard, Stone};
 
 pub mod stone_difference;
 
