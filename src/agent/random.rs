@@ -27,7 +27,7 @@ impl RandomAgent {
 impl Agent for RandomAgent {
     fn play(&mut self, stone: Stone, board: &OthelloBoard) -> Action {
         board
-            .legal_moves_for(stone)
+            .moves_for(stone)
             .stones()
             .choose(&mut self.rng)
             .map(Action::Move)
