@@ -1,8 +1,8 @@
 [package]
 name = "monochrome"
-version = "0.5.0"
+version = "0.5.1"
 authors = ["Emil Englesson <englesson.emil@gmail.com>"]
-edition = "2018"
+edition = "2021"
 description = "Othello AI"
 repository = "https://github.com/LimeEng/monochrome/"
 license = "MIT"
